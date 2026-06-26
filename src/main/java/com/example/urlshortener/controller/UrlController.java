@@ -11,7 +11,7 @@ import java.util.Map;
 @RestController
 @CrossOrigin(origins = {
         "http://localhost:5173",
-        "https://YOUR-VERCEL-DOMAIN.vercel.app"
+        "https://url-shortener-frontend-liart-eight.vercel.app"
 })
 public class UrlController {
 
